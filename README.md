@@ -1,6 +1,7 @@
 # WebsiteTemplate3
 **This is easiest to read in raw mode or in a text editor bc I suck at GitHub formatting.. sorry
 **Option 3 of a design for a personal website.. this one's easy to use and make personal, but hard to make changes to and customize (the blocks in it work really well together but are hard to change)
+Templates created by Maggie Cech -- mcech1@binghamton.edu
 
 This template is to be used for creation of a personal website, geared towards engineering students. It is a scroll website with area for home, resume, transcript, projects, and contact links.
 
